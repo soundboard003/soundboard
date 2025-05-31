@@ -1,0 +1,353 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400 ;
+    font-style: normal;
+  }
+
+  .custom-carrinho i {
+    font-size: 28px;   
+    color: #ffffff;    
+    margin-left: auto;
+    padding-right: 50px;  
+  }
+
+h1, h2 {
+    text-align: center; 
+    text-transform: uppercase;  
+    color: #ffffff; 
+}
+
+#carouselindex-title {
+  color: rgb(57, 102, 225);
+}
+
+#carouselindex3-title {
+  color: rgb(0, 0, 0);
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+
+p {
+    text-align: center; 
+    color: #ffffff; 
+    font-size: 18px;
+    margin-top: 30px;
+    margin-top: 30px;
+
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.custom-charts-titulo {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-top: 20px;
+}
+
+.custom-charts-titulo2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-top: 70px;
+}
+
+
+
+h1 {
+    font-size: 36px;
+    margin-top: 5px;
+ 
+}
+
+h2 {
+    font-size: 19px;
+    margin-top: 2px;
+    color: rgb(0, 0, 0);
+ 
+}
+
+.musicvideos {
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+  
+
+h5 {
+    font-size: 19px;
+    margin-top: 1px;
+    color: rgb(255, 255, 255);
+}
+
+
+a {
+    color:#1b2f77;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+
+a:hover {
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    margin-top: 1px;
+}
+
+
+
+.row {
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+
+
+.redesociais {
+    background-color: rgb(130, 137, 161);
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+
+.redesociais a {
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.redesociais a:hover {
+    color: rgb(27, 72, 196, 1);
+}
+
+.redesociaisloja {
+    background-color: rgb(162, 168, 187);
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+
+.redesociaisloja a {
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.carousel-custommusica {
+    margin-left: 15px;
+}
+
+#novosartistas {
+    padding-right: 15px;
+    height: 631px;
+  }
+  
+
+
+.redesociaisloja a:hover {
+    color: rgb(27, 72, 196, 1);
+}
+
+
+.rodape {
+    background-color: rgba(0, 0, 0, 0.843);
+    color: rgb(255, 255, 255);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.rodape a {
+    color: inherit; 
+    text-decoration: none;
+    transition: transform 0.3s ease, color 0.3s ease;
+    display: inline-block; 
+  }
+  
+  .rodape a:hover {
+    transform: translateY(-1px);
+    color: #ffffff;
+  }
+  
+  .rodape h5 {
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+  }
+      
+
+.charts {
+    background-color: rgb(130, 137, 161);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+}
+
+.index {
+    background-color: rgb(130, 137, 161);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.quemsomos {
+    background-color: rgb(130, 137, 161);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+
+.musica {
+    background-color: rgb(130, 137, 161);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+
+.loja {
+    background-color: rgb(162, 168, 187);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+
+
+
+.custom-navbar {
+    background-color: rgba(0, 0, 0, 0.843);
+    width: 100%;
+  }
+  
+  .custom-navbar .nav-link {
+    color: white;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: rgb(255, 255, 255);
+  }
+
+  .custom-buttonloja {
+    background-color: rgba(50, 173, 54, 0.843);
+    width: 50%;
+    margin-top: 1px;
+    margin-bottom: 20px;
+  }
+
+  .custom-buttonloja:hover {
+    background-color: rgba(31, 205, 37, 0.843);
+    transform: scale(1.02);
+    cursor: pointer;
+    margin-top: 1px;
+    margin-bottom: 20px;
+  }
+
+  .custom-buttonpage2 {
+    color: white;
+    background-color: rgb(27, 72, 196, 1);
+    width: 15%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .custom-buttonpage2:hover {
+    color: white;
+    background-color: rgb(57, 102, 225);
+    transform: scale(1.02);
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .custom-novosartistas {
+    color: white;
+    background-color: rgb(27, 72, 196, 1);
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  .custom-novosartistas:hover {
+    color: white;
+    background-color: rgb(57, 102, 225);
+    transform: scale(1.02);
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+
+  
+
+.btn-primary {
+    background-color:rgba(27, 72, 196, 1); 
+    color: white;
+    margin-bottom: 20px;             
+  }
+  
+
+h1, h2 {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.article h1,
+.contact h1 {
+margin: 40px 0 20px;
+}
+
+.logotipo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.logotipocharts {
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+
+
+.my-video1 {
+    margin-left: 15px; 
+  }
+  
+  .custom-spacing {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .quemsomos-col {
+    text-align: center;
+  }
+
+  .row.justify-content-center .quemsomos {
+    margin-top: 50px;
+  }
+  
